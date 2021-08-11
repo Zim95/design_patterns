@@ -1,0 +1,1 @@
+Adapt the interface that you are given to the interface you need.

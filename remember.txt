@@ -1,0 +1,30 @@
+SOLID:
+-----------------------
+1. Single Responsibility -
+    Journal (Remove persistence capability)
+
+2. Open close principle -
+    Specification, Filter, AndSpecification
+
+3. Liskov Substitution -
+    Square, Rectangle
+
+4. Interface Seggregation -
+    Printer, MultifunctionMachine
+
+5. Dependency Inversion - 
+    higher level module shouln't depend on lower level.
+    Family tree, Relationship example.
+
+
+Creational Pattern:
+-------------------
+1. Builder -
+    First - HTMLELement, HTMLBuilder
+    Builder facets - Person, PersonBuilder, PersonJobBuilder,
+                    PersonAddressBuilder
+    Builder inheritance - Person, PersonBuilder, PersonInfoBuilder,
+                            PersonJobBuilder, PersonBirthBuilder
+
+2. Factory -
+    

@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# local
+StudyGuide.md
+Pipfile.lock
